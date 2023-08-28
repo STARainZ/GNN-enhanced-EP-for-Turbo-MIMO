@@ -14,6 +14,7 @@ This repository contains an implementation of the graph neural network (GNN)-enh
 - Matlab folder (preparing): for performing inference, i.e., iterative turbo receiving
 
 ## Steps to start
+0. Training and testing the uncoded GEPNet [3] may be helpful for getting started.
 1. Run Python codes to train network models, including training APP-based GEPNet, generating extrinsic training LLR datasets (saved in the 'dataset' subdirectory), and training EXT-GEPNet (see [1] and main.py to learn the three-step training in detail).
 2. Saved the models in the 'model' subdirectory.
 3. Run Matlab codes to perform EXT-GEPNet-based iterative turbo receiving with the pre-trained weights in the 'model' subdirectory.
@@ -23,7 +24,7 @@ This repository contains an implementation of the graph neural network (GNN)-enh
 - More detailed comments in the source code and steps to carry out the simulations.
 
 ## References
-[1] X. Zhou, J. Zhang, C.-K. Wen, S. Jin, and S. Han, “Graph neural network-enhanced expectation propagation algorithm for MIMO turbo receivers,” to appear in IEEE Transactions on Signal Processing.
+[1] X. Zhou, J. Zhang, C.-K. Wen, S. Jin, and S. Han, “Graph neural network-enhanced expectation propagation algorithm for MIMO turbo receivers,” to appear in IEEE Transactions on Signal Processing ([Online] Available: https://arxiv.org/abs/2308.11335).
 
 [2] X. Zhou, J. Zhang, C.-K. Wen, and S. Jin, “Extrinsic graph neural network-aided expectation propagation for Turbo-MIMO receiver,” in Proc. 18th Int. Symp. Wireless Commun. Syst. (ISWCS), Hangzhou, China, Oct. 2022, pp. 1–6.
 
