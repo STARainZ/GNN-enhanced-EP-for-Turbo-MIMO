@@ -1,0 +1,4 @@
+
+/GEPNet_4x4_16QAM_10dB_final_T5_coding_damping02.npz
+log
+loss=3.260808897 in 5000 iterations   best=3.257225490 in 4955 iterations
