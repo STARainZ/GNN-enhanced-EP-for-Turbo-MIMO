@@ -18,7 +18,7 @@ This repository contains an implementation of the graph neural network (GNN)-enh
 2. Saved the models in the 'model' subdirectory.
 3. Run Matlab codes to perform EXT-GEPNet-based iterative turbo receiving with the pre-trained weights in the 'model' subdirectory.
 
-# To be done
+### To be done
 - Matlab folder to be added.
 - More detailed comments in the source code and steps to carry out the simulations.
 
